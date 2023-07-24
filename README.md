@@ -8,7 +8,7 @@ Welcome to my GitHub repository! I am a passionate Data Engineer with a strong i
 
 As a dedicated Data Engineer, I believe in continuous learning and skill improvement. Currently, I am focusing on enhancing my expertise in the following areas:
 
-- **Cloud Technologies:** I am actively exploring and working with cloud-based services such as AWS, Azure, and Google Cloud Platform (GCP) to design scalable and cost-effective data solutions.
+- **Cloud Technologies:** I am actively exploring and working with cloud-based services such as AWS and Azure  design scalable and cost-effective data solutions.
 
 - **Data Streaming:** I am diving into real-time data streaming technologies like Apache Kafka and Azure Event Hubs to process and analyze data as it flows in, enabling faster decision-making.
 
